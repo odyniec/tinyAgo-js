@@ -10,7 +10,7 @@ Usage
 The library provides one function `ago()`, which expects an argument that is a
 timestamp in milliseconds (such as the return value of the
 [`Date.getTime()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTime)
-method), and returns a string with the human-readable relative time:
+method), and returns a string with the relative time:
 
 ```javascript
 var d = new Date('January 1, 2014');
