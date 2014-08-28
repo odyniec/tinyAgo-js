@@ -2,7 +2,7 @@ TinyAgo.js
 ==========
 
 TinyAgo.js is a tiny (184 bytes when minified) JavaScript library that converts
-timestamps into relative time (a.k.a. "timeago").
+timestamps into relative time (a.k.a. "time ago").
 
 Usage
 -----
